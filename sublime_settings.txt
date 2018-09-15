@@ -1,0 +1,18 @@
+//Copy and paste as necessary
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"theme": "Boxy Solarized Dark.sublime-theme",
+	"theme_bar": true,
+	"theme_bar_logo_materialized": true,
+	"theme_tab_font_md": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_selected_label_bold": true,
+	"theme_tab_separator": true, 
+	"theme_tab_size_md": true, 
+	"theme_tab_width_autho": true
+}
+
