@@ -1,0 +1,31 @@
+//Atom configuration, config.cson
+//Copy and paste as needed
+
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+    highlightMatchingLineNumber: true
+  core:
+    disabledPackages: [
+      "fonts"
+      "markdown-preview"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 17
+    invisibles: {}
+  "exception-reporting":
+    userId: "c8201596-506f-499d-96eb-d625462a46ef"
+  fonts:
+    fontFamily: "Meslo"
+  "markdown-preview":
+    useGitHubStyle: true
+  "markdown-preview-plus":
+    useGitHubStyle: true
+  welcome:
+    showOnStartup: false
+
